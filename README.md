@@ -27,4 +27,5 @@
 
 14 test_delete_book_from_favorites_nonexistent_book проверка удаления из избранного несуществующей книги
 
-15 test_get_list_of_favorites_books проверка получения избранного списка книг 
+15 test_get_list_of_favorites_books проверка получения избранного списка книг
+ 
